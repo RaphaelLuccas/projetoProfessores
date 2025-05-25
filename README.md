@@ -57,4 +57,3 @@ Observações
     O CPF é armazenado no banco de dados apenas com os 11 dígitos numéricos, sem pontos ou traços. A formatação é aplicada apenas na interface do usuário para melhor visualização.
 
     A importação de arquivos de texto tenta lidar com formatos antigos (apenas nome e disciplina), inserindo um CPF padrão e emitindo um aviso.
-e projeto é de código aberto e está disponível sob a licença MIT.
