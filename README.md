@@ -20,7 +20,7 @@ Funcionalidades
 Como Usar
 Pré-requisitos
 
-    Python 3.x instalado.
+    Python 3.13 instalado.
 
 Executando o Aplicativo
 
@@ -57,10 +57,4 @@ Observações
     O CPF é armazenado no banco de dados apenas com os 11 dígitos numéricos, sem pontos ou traços. A formatação é aplicada apenas na interface do usuário para melhor visualização.
 
     A importação de arquivos de texto tenta lidar com formatos antigos (apenas nome e disciplina), inserindo um CPF padrão e emitindo um aviso.
-
-Contribuições
-
-Sinta-se à vontade para contribuir com melhorias, correções de bugs ou novas funcionalidades.
-Licença
-
-Este projeto é de código aberto e está disponível sob a licença MIT.
+e projeto é de código aberto e está disponível sob a licença MIT.
